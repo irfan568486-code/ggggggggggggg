@@ -1,0 +1,6 @@
+{
+  "name": "13 CLUB - Wingo Gaming Platform",
+  "description": "Authentic 13 CLUB Wingo lottery game with 30s, 1m, 3m, and 5m periods, live synchronized countdowns, color and number betting, trend charts, and real-time result settlements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
